@@ -1,0 +1,2 @@
+VIA_ENABLE = yes
+CAPS_WORD_TOGGLE = yes
